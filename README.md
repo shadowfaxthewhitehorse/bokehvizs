@@ -1,5 +1,5 @@
 # bokehvizs
-Visualizations created using Bokeh
+Visualizations created using Bokeh and other software.
 #
 #
 1. COSINE CURVE -
