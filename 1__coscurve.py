@@ -1,4 +1,7 @@
-# PYTHON PROGRAM - SOSINE CURVE
+# PYTHON PROGRAM - COSINE CURVE
+#
+# Code by shadowfaxthewhitehorse
+#
 from bokeh.plotting import figure, output_file, show
 
 import numpy as np
