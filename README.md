@@ -17,11 +17,17 @@ All these files pertain to the same project.
 Below is information on the D series, that is, files with the prefix D_.
 All these files pertain to the same project.
 
-3. STOCK PRICE VISUALIZATIONS - 
+3. STOCK PRICE COMPARISON VISUALIZATIONS - 
 
 * D0 series: Apple versus Google (mainly).
 * D1 series: AAPL versus GOOG versus MSFT.
 * D2 series: AAPL versus GOOG versus IBM.
+
+4. STOCK PRICE CANDLESTICK VISUALIZATIONS -
+
+* GOOG_* : candlesticks for prices of Google stock.
+* MSFT_* : candlesticks for prices of Microsoft stock.
+* PYPL_* : candlesticks for prices of Paypal stock.
 
 More visualizations created using Boked available at:
 
