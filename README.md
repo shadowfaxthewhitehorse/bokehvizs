@@ -28,6 +28,7 @@ All these files pertain to the same project.
 * GOOG_* : candlesticks for prices of Google stock.
 * MSFT_* : candlesticks for prices of Microsoft stock.
 * PYPL_* : candlesticks for prices of Paypal stock.
+* TSLA_* : candlesticks for prices of Tesla stock.
 
 More visualizations created using Boked available at:
 
