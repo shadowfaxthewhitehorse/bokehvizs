@@ -2,11 +2,23 @@
 Visualizations created using Bokeh and other software.
 #
 #
-1. COSINE CURVE -
+Below is information on the 1 series, that is, files with the prefix 1_.
+All these files pertain to the same project.
+
+1. 1 series :: COSINE CURVE -
 * created for a MOOC Project - Qwykr Tech Education
 
-2. SALES BY REGION -
+Below is information on the 2 series, that is, files with the prefix 2_.
+All these files pertain to the same project.
+
+2. 2 series :: SALES BY REGION -
 * created for a MOOC Project - Qwykr Tech Education
 
+Below is information on the D series, that is, files with the prefix D_.
+All these files pertain to the same project.
+
+3. STOCK PRICE VISUALIZATIONS - 
+
+* D0 series: Apple 
 
 
