@@ -19,6 +19,7 @@ All these files pertain to the same project.
 
 3. STOCK PRICE VISUALIZATIONS - 
 
-* D0 series: Apple 
-
+* D0 series: Apple versus Google (mainly).
+* D1 series: AAPL versus GOOG versus MSFT.
+* D2 series: AAPL versus GOOG versus IBM.
 
