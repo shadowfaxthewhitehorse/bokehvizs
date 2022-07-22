@@ -30,7 +30,7 @@ All these files pertain to the same project.
 * PYPL_* : candlesticks for prices of Paypal stock.
 * TSLA_* : candlesticks for prices of Tesla stock.
 
-More visualizations created using Boked available at:
+More visualizations created using Bokeh available at:
 
 https://github.com/shadowfaxthewhitehorse/tableauvizs
 
