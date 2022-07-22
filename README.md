@@ -23,3 +23,8 @@ All these files pertain to the same project.
 * D1 series: AAPL versus GOOG versus MSFT.
 * D2 series: AAPL versus GOOG versus IBM.
 
+More visualizations created using Boked available at:
+
+https://github.com/shadowfaxthewhitehorse/tableauvizs
+
+[==+==]
