@@ -34,4 +34,7 @@ More visualizations created using Bokeh available at:
 
 https://github.com/shadowfaxthewhitehorse/tableauvizs
 
+Read the README first. Available here:
+
+https://github.com/shadowfaxthewhitehorse/tableauvizs/blob/main/0_README.txt
 [==+==]
