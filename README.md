@@ -13,9 +13,10 @@ All these files pertain to the same project.
 
 2. 2 series :: SALES BY REGION -
 * created for a MOOC Project - Qwykr Tech Education
+* This is based on the Sample Superstore dataset.
 
 Below is information on the D series, that is, files with the prefix D_.
-All these files pertain to the same project.
+All these files pertain to the same project. These files were created as part of a project for a client based in India.
 
 3. STOCK PRICE COMPARISON VISUALIZATIONS - 
 
