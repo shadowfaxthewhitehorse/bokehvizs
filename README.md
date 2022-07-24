@@ -53,10 +53,10 @@ All these files pertain to the same project. These files were created as part of
 6. A2 series :: ARCCOS CURVE -
 * created for a MOOC Project - Qwykr Tech Education
 * please run the Python file and view the output. 
-From the code:
+From the source code:
 
-> output_file("arccosine.html")
-> show(p)
+$ output_file("arccosine.html")
+$ show(p)
 
 #
 More visualizations created using Bokeh available at:
