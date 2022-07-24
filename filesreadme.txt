@@ -4,6 +4,16 @@ filedir = "E:\0__ALL_MY_FOLDERS\7B__ALL_MY_FOLDERS_2022\3_Third_QTR_2022\A4__Bok
 computer = "beleriand"
 vizs = "powerbivizs"
 
+mylist1 = []
+
+next_elem = ("9 series", "Project1", "E:\0__ALL_MY_FOLDERS\7B__ALL_MY_FOLDERS_2022\3_Third_QTR_2022\A4__BokehVizs\Project1\src")
+
+mylist1 += next_elem
+
+next_elem = ("A2 series", "Project2", "E:\0__ALL_MY_FOLDERS\7B__ALL_MY_FOLDERS_2022\3_Third_QTR_2022\A4__BokehVizs\Project2\src")
+
+mylist1 += next_elem
+
 inum = int(input("Please enter a number: "))
 
 def print_digits(mynum):
