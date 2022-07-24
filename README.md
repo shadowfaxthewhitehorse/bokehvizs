@@ -9,8 +9,8 @@ Visualizations created using Bokeh and other software.
 A series or "uploaded series" in this repo  is a set of uploads with the same prefix. (These codes are internally used by projects I am working on.)
 
 Please view the JPG and other image files to see the visualizations prepared.
-Please note that the HTML files may not render properly. These files have been provided since they are the output of many of the programs.
-Run the program to see the actual HTML result.
+Please note that the HTML files may not render properly since other files needed for rendering have not been provided. These files have been provided 
+here since they are the output of many of the programs. You would have to run the code to see the actual HTML result.
 #
 #
 Note that folders have been created for some of the series. Please refer to both the root directory as well as the folder to get all the 
