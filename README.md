@@ -59,3 +59,6 @@ Read the README first. Available here:
 
 https://github.com/shadowfaxthewhitehorse/tableauvizs/blob/main/0_README.txt
 [==+==]
+(*) filesreadme for this series available at:
+https://github.com/shadowfaxthewhitehorse/bokehvizs/blob/main/filesreadme.txt
+[==+==]
