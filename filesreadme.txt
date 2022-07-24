@@ -17,6 +17,11 @@ mylist1 += next_elem
 next_elem = ("F series", "Project3", "E:\0__ALL_MY_FOLDERS\7B__ALL_MY_FOLDERS_2022\3_Third_QTR_2022\A4__BokehVizs\Project3\src")
 
 mylist1 += next_elem
+
+next_elem = ("B1 series", "Project4", "E:\0__ALL_MY_FOLDERS\7B__ALL_MY_FOLDERS_2022\3_Third_QTR_2022\A4__BokehVizs\Project4\src")
+
+mylist1 += next_elem
+
 # print(mylist1)
 
 inum = int(input("Please enter a number: "))
