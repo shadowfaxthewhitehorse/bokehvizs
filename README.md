@@ -4,8 +4,10 @@ Visualizations created using Bokeh and other software.
 #
 
 #
-# INFORMATION ON (MANY OF) THE SERIES OF UPLOADS IN THIS REPO
+# INFORMATION ON (MANY OF) THE UPLOAD SERIESES IN THIS REPO
 #
+A series or "uploaded series" in this repo  is a set of uploads with the same prefix.
+
 Please view the JPG and other image files to see the visualizations prepared.
 Please note that the HTML files may not render properly. These files have been provided since they are the output of many of the programs.
 Run the program to see the actual HTML result.
