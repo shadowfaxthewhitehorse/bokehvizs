@@ -2,6 +2,12 @@
 Visualizations created using Bokeh and other software.
 #
 #
+Please note that the HTML files may not render properly. These files have been provided since they are the output of many of the programs.
+Run the program to see the actual HTML result.
+
+#
+# INFORMATION ON (MANY OF) THE SERIES OF UPLOADS IN THIS REPO
+#
 Below is information on the 1 series, that is, files with the prefix 1_ in this GitHub repository (i.e. bokehvizs).
 All these files pertain to the same project.
 
