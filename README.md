@@ -56,6 +56,8 @@ All these files pertain to the same project. These files were created as part of
 From the source code:
 
 $ output_file("arccosine.html")
+
+
 $ show(p)
 
 #
