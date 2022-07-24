@@ -52,7 +52,7 @@ All these files pertain to the same project. These files were created as part of
 
 6. A2 series :: ARCCOS CURVE -
 * created for a MOOC Project - Qwykr Tech Education
-* please run the Python file and view the output. 
+* please run the Python file and view the output. Output file is called "arccosine.html".
 From the source code:
 
 $ output_file("arccosine.html")
