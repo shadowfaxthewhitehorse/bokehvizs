@@ -24,6 +24,9 @@ All these files pertain to the same project. These files were created as part of
 * D1 series: AAPL versus GOOG versus MSFT.
 * D2 series: AAPL versus GOOG versus IBM.
 
+Below is information on the F series, that is, files with the prefix F_.
+All these files pertain to the same project. These files were created as part of a project for a client based in India.
+
 4. STOCK PRICE CANDLESTICK VISUALIZATIONS -
 
 * GOOG_* : candlesticks for prices of Google stock.
